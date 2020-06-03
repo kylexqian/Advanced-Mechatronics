@@ -36,7 +36,7 @@
 #pragma config PMDL1WAY = OFF // allow multiple reconfigurations
 #pragma config IOL1WAY = OFF // allow multiple reconfigurations
 
-// Homework 3 //
+// Homework 4 //
 #define CLK 48000000
 
 int main() {
